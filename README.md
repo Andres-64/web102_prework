@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://i.imgur.com/t6VbTWR.gif" width="600" alt="WEB102 Prework Walkthrough" />
+<img src="https://raw.githubusercontent.com/Andres-64/web102_prework/refs/heads/main/WEB102%20Pre%20Work.gif" width="600" alt="WEB102 Prework Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
